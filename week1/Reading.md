@@ -1,14 +1,15 @@
 # Chapter 1
 
-## Learning Objectives
-In this section students will:
-•	 Classify a real number as a natural, whole, integer, rational, or irrational number.
-•	 Perform calculations using order of operations.
-•	 Use the following properties of real numbers: commutative, associative, distributive, inverse, and identity.
-•	 Evaluate algebraic expressions.
-•	 Simplify algebraic expressions.
-
 ## Section 1.1 - REAL NUMBERS: ALGEBRA ESSENTIALS
+
+## Learning Objectives
+>In this section students will:
+>+	 Classify a real number as a natural, whole, integer, rational, or irrational number.
+>+	 Perform calculations using order of operations.
+>+	 Use the following properties of real numbers: commutative, associative, distributive, inverse, and identity.
+>+	 Evaluate algebraic expressions.
+>+	 Simplify algebraic expressions.
+
 
 ### Classifying a Real Number
 
@@ -155,24 +156,18 @@ ____
 
 ## Section 1.2 - Exponents and Scientific Notation
 
-Learning Objectives
-In this section students will:
-
-•    Use the product rule of exponents.
-
-•	 Use the quotient rule of exponents.
-
-•	 Use the power rule of exponents.
-
-•	 Use the zero exponent rule of exponents.
-
-•	 Use the negative rule of exponents.
-
-•	 Find the power of a product and a quotient.
-
-•	 Simplify exponential expressions
-
-•	 Use scientific notation.
+> Learning Objectives
+>
+>In this section students will:
+>
+>+    Use the product rule of exponents.
+>+	 Use the quotient rule of exponents.
+>+	 Use the power rule of exponents.
+>+	 Use the zero exponent rule of exponents.
+>+	 Use the negative rule of exponents.
+>+	 Find the power of a product and a quotient.
+>+	 Simplify exponential expressions
+>+	 Use scientific notation.
 
 ### Using the Product Rule of Exponents
 Consider the product $x^3$ * $x^4$.Both terms have the same base, x, but they are raised to different exponents. Expand each expression, and then rewrite the resulting expression.
@@ -245,24 +240,19 @@ $(\frac{a}{b})^n = \frac{a^n}{b^n}$
 ### Simplifying Exponential Expressions
 Recall that to simplify an expression means to rewrite it by combing terms or exponents; in other words, to write the expression more simply with fewer terms. The rules for exponents may be combined to simplify expressions.
 
-
+---
 
 # Section 1.3: Radicals and Rational Expressions
 
-Learning Objectives
+>Learning Objectives
+>
 >In this section, you will:
->
->•	 Evaluate square roots.
->
->•	 Use the product rule to simplify square roots.
->
->•	 Use the quotient rule to simplify square roots.
->
->•	 Add and subtract square roots.
->
->•	 Rationalize denominators.
->
->•	 Use rational roots.
+>+	 Evaluate square roots.
+>+	 Use the product rule to simplify square roots.
+>+	 Use the quotient rule to simplify square roots.
+>+	 Add and subtract square roots.
+>+	 Rationalize denominators.
+>+	 Use rational roots.
 
 ## Evaluating Square Roots
 When the square root of a number is squared, the result is the original number. Since $4^2$ = 16, the square root of 16 is 4. The square root function is the inverse of the squaring function just as subtraction is the inverse of addition. To undo squaring, we take the square root. 
@@ -314,6 +304,7 @@ We can also have rational exponents with numerators other than 1. In these cases
 
 $a^\frac{m}{n} = (\sqrt[n]{a})^m = \sqrt[n]{a^m}$
 
+---
 
 # SECTION 1.4 Polynomials
 
@@ -371,6 +362,279 @@ The FOIL method arises out of the distributive property. We are simply multiplyi
 ### Perfect Square Trinomials
 Certain binomial products have special forms. When a binomial is squared, the result is called a **perfect square trinomial**. We can find the square by multiplying the binomial by itself. However, there is a special form that each of these perfect square trinomials takes, and memorizing the form makes squaring binomials much easier and faster.
 Let’s look at a few perfect square trinomials to familiarize ourselves with the form.
+
+Notice that the first term of each trinomial is the square of the first term of the binomial and, similarly, the last term of each trinomial is the square of the last term of the binomial. The middle term is double the product of the two terms.
+Lastly, we see that the first sign of the trinomial is the same as the sign of the binomial.
+
+>**Perfect square trinomials**
+>When a binomial is squared, the result is the first term squared added to double the product of both terms and the last term squared.
+>
+>$(x + a)^2 = (x + a)(x + a) = x^2 + 2ax + a^2$
+
+>How To…
+>
+>Given a binomial, square it using the formula for perfect square trinomials.
+>1. Square the first term of the binomial.
+>2. Square the last term of the binomial.
+>3. For the middle term of the trinomial, double the product of the two terms.
+>4. Add and simplify
+
+### Difference of Squares
+Another special product is called the difference of squares, which occurs when we multiply a binomial by another binomial with the same terms but the opposite sign. Let’s see what happens when we multiply $(x + 1)(x − 1)$ using the FOIL method.
+
+$(x + 1)(x − 1) = x^2 − x + x − 1$
+
+$= x^2 − 1$
+
+The middle term drops out, resulting in a difference of squares. Because the sign changes in the second binomial, the outer and inner terms cancel each other out, and we are left only with the square of the first term minus the square of the last term.
+
+>### difference of squares
+>When a binomial is multiplied by a binomial with the same terms separated by the opposite sign, the result is the square of the first term minus the square of the last term.
+>
+>$(a + b)(a − b) = a^2 − b^2$
+
+>How To…
+>
+>Given a binomial multiplied by a binomial with the same terms but the opposite sign, find the difference of squares.
+>1. Square the first term of the binomials.
+>2. Square the last term of the binomials.
+>3. Subtract the square of the last term from the square of the first term.
+
+### Performing Operations with Polynomials of Several Variables
+We have looked at polynomials containing only one variable. However, a polynomial can contain several variables. All of the same rules apply when working with polynomials containing several variables. Let's see an example:
+
+>$(a + 2b)(4a − b − c)$
+>
+>$a(4a − b − c) + 2b(4a − b − c)$ Use the distributive property.
+>
+>$4a^2 − ab − ac + 8ab − 2b^2 − 2bc$ Multiply.
+>
+>$4a^2 + ( −ab + 8ab) − ac − 2b^2 − 2bc$ Combine like terms.
+>
+>$4a^2 + 7ab − ac − 2bc − 2b^2$ Simplify
+
+___
+
+# SECTION 1.5 Factoring Polynomials
+
+> Learning Objectives
+>
+>In this section, you will:
+>+ Factor the greatest common factor of a polynomial.
+>+ Factor a trinomial.
+>+ Factor by grouping.
+>+ Factor a perfect square trinomial.
+>+ Factor a difference of squares.
+>+ Factor the sum and difference of cubes.
+>+ Factor expressions using fractional or negative exponents.
+
+
+Many polynomial expressions can be written in simpler forms by factoring. In this section, we will look at a variety of methods that can be used to factor polynomial expressions.
+
+## Factoring the Greatest Common Factor of a Polynomial
+When we study fractions, we learn that the **greatest common factor (GCF)** of two numbers is the largest number that divides evenly into both numbers. For instance, 4 is the GCF of 16 and 20 because it is the largest number that divides evenly into both 16 and 20 The GCF of polynomials works the same way: $4x$ is the GCF of $16x$ and $20x^2$ because it is the largest polynomial that divides evenly into both $16x$ and $20x^2$.
+
+When factoring a polynomial expression, our first step should be to check for a GCF. Look for the GCF of the coefficients, and then look for the GCF of the variables.
+
+
+>How To…
+>
+>Given a polynomial expression, factor out the greatest common factor.
+>1. Identify the GCF of the coefficients.
+>2. Identify the GCF of the variables.
+>3. Combine to find the GCF of the expression.
+>4. Determine what the GCF needs to be multiplied by to obtain each term in the expression.
+>5. Write the factored expression as the product of the GCF and the sum of the terms we need to multiply by.
+
+## Factoring a Trinomial with Leading Coefficient 1
+Although we should always begin by looking for a GCF, pulling out the GCF is not the only way that polynomial expressions can be factored. The polynomial $x^2 + 5x + 6$ has a GCF of 1, but it can be written as the product of the factors $(x + 2)$ and $(x + 3)$.
+
+Trinomials of the form $x^2 + bx + c$ can be factored by finding two numbers with a product of $c$ and a sum of $b$. The trinomial $x^2 + 10x + 16$, for example, can be factored using the numbers 2 and 8 because the product of those numbers is 16 and their sum is 10. The trinomial can be rewritten as the product of (x + 2) and (x + 8).
+
+> ### factoring a trinomial with leading coefficient 1
+>A trinomial of the form $x^2 + bx + c$ can be written in factored form as $(x + p)(x + q)$ where $pq = c$ and $p + q = b$.
+
+>How To…
+>
+>Given a trinomial in the form $x^2 + bx + c$, factor it.
+>1. List factors of c.
+>2. Find p and q, a pair of factors of c with a sum of b.
+>3. Write the factored expression $(x + p)(x + q)$.
+
+
+## Factoring by Grouping
+Trinomials with leading coefficients other than 1 are slightly more complicated to factor. For these trinomials, we can factor by grouping by dividing the x term into the sum of two terms, factoring each portion of the expression separately, and then factoring out the GCF of the entire expression. 
+
+>### factor by grouping
+>To factor a trinomial in the form ax $2 + bx + c$ by grouping, we find two numbers with a product of *ac* and a sum of *b*. We use these numbers to divide the *x* term into the sum of two terms and factor each portion of the expression separately, then factor out the GCF of the entire expression.
+
+> ### How To…
+>
+>Given a trinomial in the form $ax^2 + bx + c$, factor by grouping.
+>1. List factors of $ac$.
+>2. Find $p$ and $q$, a pair of factors of ac with a sum of b.
+>3. Rewrite the original expression as $ax^2 + px + qx + c$.
+>4. Pull out the GCF of $ax^2 + px$.
+>5. Pull out the GCF of $qx + c$.
+>6. Factor out the GCF of the expression.
+
+### Factoring a Perfect Square Trinomial
+A perfect square trinomial is a trinomial that can be written as the square of a binomial. Recall that when a binomial is squared, the result is the square of the first term added to twice the product of the two terms and the square of the last term.
+
+>### Perfect square trinomials
+>A perfect square trinomial can be written as the square of a binomial:
+>
+>$a^2 + 2ab + b2 = (a + b)^2$
+
+
+> ### How To…
+>
+> Given a perfect square trinomial, factor it into the square of a binomial.
+>1. Confirm that the first and last term are perfect squares.
+>2. Confirm that the middle term is twice the product of $ab$.
+>3. Write the factored form as $(a + b)^2$.
+
+
+
+### Factoring a Difference of Squares
+A difference of squares is a perfect square subtracted from a perfect square. Recall that a difference of squares can be rewritten as factors containing the same terms but opposite signs because the middle terms cancel each other out when the two factors are multiplied.
+
+$a2 − b2 = (a + b)(a − b)$
+
+We can use this equation to factor any differences of squares.
+
+### How To…
+>
+>Given a difference of squares, factor it into binomials.
+>1. Confirm that the first and last term are perfect squares.
+2>. Write the factored form as $(a + b)(a − b)$.
+
+## Factoring the Sum and Difference of Cubes
+Now, we will look at two new special products: the sum and difference of cubes. Although the sum of squares cannot be factored, the sum of cubes can be factored into a binomial and a trinomial.
+$a^3 + b^3 = (a + b) (a^2 − ab + b^2)$
+
+Similarly, the sum of cubes can be factored into a binomial and a trinomial, but with different signs.
+
+$a^3 − b^3 = (a − b)(a^2 + ab + b^2)$
+
+We can use the acronym **SOAP** to remember the signs when factoring the sum or difference of cubes. The first letter of each word relates to the signs: **S**ame **O**pposite **A**lways **P**ositive. For example, consider the following example.
+
+$x^3 − 2^3 = (x − 2)(x^2 + 2x + 4)$
+
+The sign of the first 2 is the same as the sign between $x^3 − 23$. The sign of the $2x$ term is opposite the sign between $x^3 − 23$. And the sign of the last term, 4, is always positive.
+
+
+>### sum and difference of cubes
+>We can factor the sum of two cubes as
+>$a^3 + b^3 = (a + b) (a^2 − ab + b^2)
+>
+>We can factor the difference of two cubes as
+>
+>$a^3 − b^3 = (a − b)(a^2 + ab + b^2)
+
+
+###How To…
+>
+>Given a sum of cubes or difference of cubes, factor it.
+>1. Confirm that the first and last term are cubes, a3 + b3 or a3 − b3.
+>2. For a sum of cubes, write the factored form as $(a + b)(a^2 − ab + b^2).
+>    
+>    For a difference of cubes, write the factored form as $(a − b)(a^2 + ab + b^2).
+
+
+## Factoring Expressions with Fractional or Negative Exponents
+Expressions with fractional or negative exponents can be factored by pulling out a GCF. Look for the variable or exponent that is common to each term of the expression and pull out that variable or exponent raised to the lowest power. These expressions follow the same factoring rules as those with integer exponents.
+For instance, $2x\frac{1}{4}+5x\frac{3}{4}$ can be factored by pulling out $x\frac{1}{4}$ and being rewritten as $x\frac{1}{4}(2+5x\frac{1}{2})$.
+
+---
+
+# 1.6 Rational Expressions
+
+## Simplifying Rational Expressions
+The quotient of two polynomial expressions is called a rational expression. We can apply the properties of fractions to rational expressions, such as simplifying the expressions by canceling common factors from the numerator and the denominator. To do this, we first need to factor both the numerator and denominator. Let’s start with the rational expression shown.
+
+$$\large\frac{x^2+8x+16}{x^2+11x+28}$$
+
+We can factor the numerator and denominator to rewrite the expression.
+
+$$\large\frac{(x+4)^2}{(x+4)(x+7)}$$
+
+Then we can simplify that expression by canceling the common factor $(x+ 4)$.
+
+$$\large\frac{x+4}{x+7}$$
+
+>## How To…
+>
+>Given a rational expression, simplify it.
+>1. Factor the numerator and denominator.
+>2. Cancel any common factors.
+
+
+## Multiplying Rational Expressions
+Multiplication of rational expressions works the same way as multiplication of any other fractions. We multiply the numerators to find the numerator of the product, and then multiply the denominators to find the denominator of the product. Before multiplying, it is helpful to factor the numerators and denominators just as we did when simplifying rational expressions. We are often able to simplify the product of rational expressions.
+
+>## How To…
+>
+>Given two rational expressions, multiply them.
+>1. Factor the numerator and denominator.
+>2. Multiply the numerators.
+>3. Multiply the denominators.
+>4. Simplify
+
+## Dividing Rational Expressions
+Division of rational expressions works the same way as division of other fractions. To divide a rational expression by another rational expression, multiply the first expression by the reciprocal of the second. Using this approach, we would rewrite $\frac{1}{x} \div \frac{x^2}{3}$ as the product $\frac{1}{x} \times \frac{3}{x^2}$. Once the division expression has been rewritten as a multiplication expression, we can multiply as we did before.
+$\large\frac{1}{x} \times \frac{3}{x^2}=\frac{3}{x^3}$
+
+>## How To…
+>
+>Given two rational expressions, divide them.
+>1. Rewrite as the first rational expression multiplied by the reciprocal of the second.
+>2. Factor the numerators and denominators.
+>3. Multiply the numerators.
+>4. Multiply the denominators.
+>5. Simplify.
+
+
+## Adding and Subtracting Rational Expressions
+Adding and subtracting rational expressions works just like adding and subtracting numerical fractions. To add fractions, we need to find a common denominator. Let’s look at an example of fraction addition.
+
+$\large\frac{5}{24}+\frac{1}{40}=\frac{25}{120}+\frac{3}{20}$
+
+$\large=\frac{28}{120}$
+
+$\large=\frac{7}{30}$
+
+We have to rewrite the fractions so they share a common denominator before we are able to add. We must do the same thing when adding or subtracting rational expressions.
+
+The easiest common denominator to use will be the **least common denominator, or LCD**. The LCD is the smallest multiple that the denominators have in common. To find the LCD of two rational expressions, we factor the expressions and multiply all of the distinct factors. For instance, if the factored denominators were $(x + 3)(x + 4)$ and $(x + 4)(x + 5)$, then the LCD would be $(x + 3)(x + 4)(x + 5)$.
+
+Once we find the LCD, we need to multiply each expression by the form of 1 that will change the denominator to the LCD.
+
+
+>### How To…
+>
+>Given two rational expressions, add or subtract them.
+>1. Factor the numerator and denominator.
+>2. Find the LCD of the expressions.
+>3. Multiply the expressions by a form of 1 that changes the denominators to the LCD.
+>4. Add or subtract the numerators.
+>5. Simplify.
+
+## Simplifying Complex Rational Expressions
+A complex rational expression is a rational expression that contains additional rational expressions in the numerator, the denominator, or both. We can simplify complex rational expressions by rewriting the numerator and denominator as single rational expressions and dividing. The complex rational expression $\frac{a}{\frac{1}{b}+c}$ can be simplified by rewriting the numerator as the fraction $\frac{a}{1}$ and combining the expressions in the denominator as $\frac{1+bc}{b}$. We can then rewrite the expression as a multiplication problem using the reciprocal of the denominator. We get $\frac{a}{1}*\frac{b}{1+bc}$, which is equal to $\frac{ab}{1+bc}$.
+
+>## How To…
+>Given a complex rational expression, simplify it.
+>1. Combine the expressions in the numerator into a single rational expression by adding or subtracting.
+>2. Combine the expressions in the denominator into a single rational expression by adding or subtracting.
+>3. Rewrite as the numerator divided by the denominator.
+>4. Rewrite as multiplication.
+>5. Multiply.
+>6. Simplify
+
+---
+
+
 
 ```
 MD Math Cheatsheet: http://garsia.math.yorku.ca/~zabrocki/latexpanel/latexpanel.pdf
