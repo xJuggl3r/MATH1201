@@ -452,4 +452,117 @@ The quadratic formula not only generates the solutions to a quadratic equation, 
 >+	 Solve absolute value equations.
 >+	 Solve other types of equations.
 
-# TODO 131
+## 2.6 Other Types of Equation
+
+We have solved linear equations, rational equations, and quadratic equations using several methods. However, there are many other types of equations, and we will investigate a few more types in this section. We will look at equations involving rational exponents, polynomial equations, radical equations, absolute value equations, equations in quadratic form, and some rational equations that can be transformed into quadratics. Solving any equation, however, employs the same basic algebraic rules. We will learn some new techniques as they apply to certain equations, but the algebra never changes.
+
+### Solving Equations Involving Rational Exponents
+Rational exponents are exponents that are fractions, where the numerator is a power and the denominator is a root.
+
+We can solve equations in which a variable is raised to a rational exponent by raising both sides of the equation to the reciprocal of the exponent. The reason we raise the equation to the reciprocal of the exponent is because we want to eliminate the exponent on the variable term, and a number multiplied by its reciprocal equals 1. 
+
+>### Rational exponents
+A rational exponent indicates a power in the numerator and a root in the denominator. There are multiple ways of writing an expression, a variable, or a number with a rational exponent:
+
+$\large a^\frac{m}{n} = (a^\frac{1}{n})^m = (a^m)^\frac{1}{n} = \sqrt[n]{a^m} = (\sqrt[n]{a})^m$
+
+### Solving Equations Using Factoring
+We have used factoring to solve quadratic equations, but it is a technique that we can use with many types of polynomial equations, which are equations that contain a string of terms including numerical coefficients and variables. When we are faced with an equation containing polynomials of degree higher than 2, we can often solve them by factoring.
+
+>### Polynomial equations
+>A polynomial of degree n is an expression of the type
+>
+>$$\large\ a_nx^n + a_{n-1}x^{n-1} + ... + a_2x^2 + a_1x + a_0 $$
+>
+>where n is a positive integer and $a_n , … , a_0$ are real numbers and an ≠ 0.
+>Setting the polynomial equal to zero gives a **polynomial equation**. The total number of solutions (real and complex) to a polynomial equation is equal to the highest exponent $n$.
+
+### Solving Radical Equations
+
+**Radical equations** are equations that contain variables in the radicand (the expression under a radical symbol), such as
+
+$\large \sqrt{3x + 18} = x$
+
+$\large \sqrt{x+3} = x-3$
+
+$\large \sqrt{x + 5} - \sqrt{x - 3} = 2$
+
+Radical equations may have one or more radical terms, and are solved by eliminating each radical, one at a time. 
+
+>### How To…
+> Given a radical equation, solve it.
+>1. Isolate the radical expression on one side of the equal sign. Put all remaining terms on the other side.
+>2. If the radical is a square root, then square both sides of the equation. If it is a cube root, then raise both sides of the equation to the third power. In other words, for an nth root radical, raise both sides to the nth power. Doing so eliminates the radical symbol.
+>3. Solve the remaining equation.
+>4. If a radical term still remains, repeat steps 1–2.
+>5. Confirm solutions by substituting them into the original equation
+
+
+### Solving an Absolute Value Equation
+Next, we will learn how to solve an absolute value equation. To solve an equation such as |2x − 6| = 8, we notice that the absolute value will be equal to 8 if the quantity inside the absolute value bars is 8 or −8. This leads to two different equations we can solve independently.
+
+Knowing how to solve problems involving absolute value functions is useful. For example, we may need to identify numbers or points on a line that are at a specified distance from a given reference point.
+
+
+> ###Absolute value equations
+>
+>The absolute value of x is written as |x|. It has the following properties:
+>
+>If x ≥ 0, then |x| = x.
+>
+>If x < 0, then |x| = −x.
+>
+>For real numbers A and B, an equation of the form |A| = B, with B ≥ 0, will have solutions when A = B or A = −B.
+>
+>If B < 0, the equation |A| = B has no solution.
+>
+>An absolute value equation in the form |ax + b| = c has the following properties:
+>If c < 0, |ax + b| = c has no solution.
+>
+>If c = 0, |ax + b| = c has one solution.
+>
+>If c > 0, |ax + b| = c has two solutions.
+
+>### How To…
+>Given an absolute value equation, solve it.
+>1. Isolate the absolute value expression on one side of the equal sign.
+>2. If c > 0, write and solve two equations: ax + b = c and ax + b = − c.
+
+## Solving Other Types of Equations
+There are many other types of equations in addition to the ones we have discussed so far. We will see more of them throughout the text. Here, we will discuss equations that are in quadratic form, and rational equations that result in a quadratic.
+
+### Solving Equations in Quadratic Form
+Equations in quadratic form are equations with three terms. The first term has a power other than 2. The middle term has an exponent that is one-half the exponent of the leading term. The third term is a constant. 
+
+If the exponent on the middle term is one-half of the exponent on the leading term, we have an **equation in quadratic form**, which we can solve as if it were a quadratic. We substitute a variable for the middle term to solve equations in quadratic form.
+
+>### How To…
+>Given an equation quadratic in form, solve it.
+>1. Identify the exponent on the leading term and determine whether it is double the exponent on the middle term.
+>2. If it is, substitute a variable, such as u, for the variable portion of the middle term.
+>3. Rewrite the equation so that it takes on the standard form of a quadratic.
+>4. Solve using one of the usual methods for solving a quadratic.
+>5. Replace the substitution variable with the original term.
+>6. Solve the remaining equation.
+
+
+---
+
+## 2.7  Linear Inequalities and Absolute Value Inequalities
+
+>## Learning Objectives
+>In this section you will:
+>+	 Use interval notation.
+>+	 Use properties of inequalities.
+>+	 Solve inequalities in one variable algebraically.
+>+	 Solve absolute value inequalities.
+
+## Using Interval Notation
+Indicating the solution to an inequality such as x ≥ 4 can be achieved in several ways
+
+We can use set-builder notation: {x|x ≥ 4}, which translates to “all real numbers x such that x is greater than or equal to 4.” Notice that braces are used to indicate a set.
+
+The third method is **interval notation**, in which solution sets are indicated with parentheses or brackets. The solutions to x ≥ 4 are represented as [4, ∞).
+
+The main concept to remember is that **parentheses represent solutions greater or less than the number**, and ***brackets represent solutions that are greater than or equal to or less than or equal to the number***. Use parentheses to represent infinity or negative infinity, since positive and negative infinity are not numbers in the usual sense of the word and, therefore, cannot be “equaled.”
+
