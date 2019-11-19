@@ -566,3 +566,5 @@ The third method is **interval notation**, in which solution sets are indicated 
 
 The main concept to remember is that **parentheses represent solutions greater or less than the number**, and ***brackets represent solutions that are greater than or equal to or less than or equal to the number***. Use parentheses to represent infinity or negative infinity, since positive and negative infinity are not numbers in the usual sense of the word and, therefore, cannot be “equaled.”
 
+![](https://github.com/xJuggl3r/MATH1201/blob/master/week1/IntervalNotation.png)
+
